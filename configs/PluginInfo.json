@@ -1,6 +1,6 @@
 {
     "FullName": "Dino Stats Display",
-    "Description": "Show dino stats with spyglass and on cryopods",
+    "Description": "Show dino stats with Spyglass and on Cryopods",
     "Version": 0.1,
     "MinApiVersion": 3.54
 }
