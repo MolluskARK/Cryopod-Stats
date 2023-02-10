@@ -1,6 +1,6 @@
 {
-    "FullName": "Plugin Template",
-    "Description": "Simple example plugin",
+    "FullName": "Dino Stats Display",
+    "Description": "Show dino stats with spyglass and on cryopods",
     "Version": 0.1,
     "MinApiVersion": 3.54
 }
