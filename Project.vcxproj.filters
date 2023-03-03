@@ -84,7 +84,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\DinoStatsDisplay.cpp">
+    <ClCompile Include="src\CryopodStats.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
